@@ -1,4 +1,4 @@
-# note-app
+# Note App Android Room Kotlin
 
 # Build.gradle (app)
 ### plugins
