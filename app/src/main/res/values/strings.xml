@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Notes</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="title">Title</string>
+    <string name="content">Content</string>
+</resources>
