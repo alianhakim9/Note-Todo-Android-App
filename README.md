@@ -1,5 +1,7 @@
 # Note App Android Room Kotlin
 
+https://user-images.githubusercontent.com/51102459/113279315-22a48f80-930d-11eb-8fe9-da5af8f2c6e8.mp4
+
 # Build.gradle (app)
 ### plugins
 > id 'kotlin-kapt'
